@@ -32,7 +32,7 @@ function Users() {
                                     <td>{user.email}</td>
                                     <td>{user.age}</td>
                                     <td>
-                                    <Link to='/update' className='btn btn-primary'>Edit</Link>
+                                    <Link to={`/update/${user._id}` } className='btn btn-primary'>Edit</Link>
                                     <Link to='/create' className='btn btn-danger'>Delete</Link>
                                     </td>
                                 </tr>
