@@ -2,8 +2,7 @@
 
 A simple MERN stack CRUD (Create, Read, Update, Delete) application for managing data. This project demonstrates how to build a web application using the MongoDB, Express.js, React, and Node.js stack.
 
-![MERN CRUD!](https://ibb.co/Z2rM8wv)
-
+![MERN-CRUD](https://github.com/J-B-Mugundh/Mern-Crud-App/assets/98593517/bc93e810-5f23-449a-a392-aee53f59e042)
 
 ## Features
 
