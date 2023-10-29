@@ -70,9 +70,10 @@ npm start
 
 ## Usage
 
-To create a new data item, click the "Add Item" button and fill out the form.
-To view or edit an existing item, click on the item in the list.
-To delete an item, click the "Delete" button when viewing an item.
+1. To create a new data item, click the "Add Item" button and fill out the form.
+2. To view or edit an existing item, click on the item in the list.
+3. To delete an item, click the "Delete" button when viewing an item.
+   
 Real-time updates are supported, so changes made by one user will be reflected to other connected users.
 
 ## Contributing
